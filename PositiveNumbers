@@ -1,0 +1,6 @@
+l1=eval(input("Enter list of numbers:"))
+l2=[]
+for ele in l1:
+    if ele>0:
+        l2.append(ele)
+print("Positive numbers:",l2)
