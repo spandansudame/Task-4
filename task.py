@@ -5,7 +5,7 @@ Created on Sun Sep 24 11:05:54 2023
 @author: Spandan
 """
 
-n=10
+n=int(input("Enter how many Fibonacci numbers you want to see:"))
 num1=0
 num2=1
 next_number=num2 
